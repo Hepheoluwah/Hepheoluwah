@@ -9,7 +9,7 @@
 <h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 
 <p align="left">
-As a dedicated and experienced software engineer, I specialize in creating dynamic, responsive web applications with a focus on exceptional user experiences. My technical expertise spans HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, and SQL for efficient database management.<br><br>
+As a dedicated and experienced software engineer, I specialize in creating dynamic, responsive web applications with a focus on exceptional user experiences. My technical expertise spans HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, ExpressJS, NodeJS, MongoDB and SQL for efficient database management.<br><br>
 I am skilled in unit testing, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and version control with Git. Proficient in using npm/yarn for package management and tools like Webpack for efficient builds, I ensure high-quality, maintainable code through thorough testing and debugging practices.<br><br>
 My background includes specialization in telecommunications automation and a passion for performance optimization, accessibility, and cross-browser compatibility. With strong problem-solving skills and a commitment to continuous learning, I thrive in collaborative environments and am always eager to take on new challenges.<br><br>
 Holder of a Web Design certification from FreeCodeCamp and currently pursuing an ALX Software Engineering Certification, I am dedicated to continuous learning and growth. Let's collaborate to build something amazing together!
