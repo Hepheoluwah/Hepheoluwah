@@ -1,9 +1,9 @@
 
 <h1 align="center">Hellooo there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />, I'm Ifeoluwa </h1> 
-<h3 align="center">A Passionate Software Developer from Nigeria.</h3>
+<h3 align="center">A Passionate Software Developer.</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+  <img src="https://github.com/Hepheoluwah/Assets/blob/main/Images/coder_typing.gif" style="width: 200px; height: auto;" />
 </div>
 
 ###
