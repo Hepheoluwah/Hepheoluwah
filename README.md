@@ -1,33 +1,50 @@
+
+<h1 align="center">Hellooo there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />, I'm Ifeoluwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70" /> </h1> 
+<h3 align="center">A Passionate Software Developer from Nigeria.</h3>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 </div>
 
-<h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1> 
+###
+
+## About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+
+- 🔭 **Currently Working On:** MERN Stack Web App
+- 🌱 **Learning:** AWS Cloud Practitioner
+- 💬 **Ask Me About:** Software & Web Development
+
+## Fun Facts:
+- 🚀 Passionate about building scalable applications and exploring new technologies.
+- 🎯 Always looking for ways to improve performance and enhance user experience.
+- 📚 Enjoy mentoring and sharing knowledge with others in the tech community.
+
+  
+## Connect with Me
+
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Email logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="mailto:deniranifeoluwa@gmail.com" style="text-decoration:none;color:inherit;">Mail</a>
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="https://linkedin.com/in/ifeoluwa-adeniran-09183a1ba" style="text-decoration:none;color:inherit;">LinkedIn</a>
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="https://twitter.com/Adexifeoluwa" style="text-decoration:none;color:inherit;">Twitter</a>
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/reddit/reddit.svg" alt="Reddit logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="https://www.reddit.com/user/adexifeoluwa/" style="text-decoration:none;color:inherit;">Reddit</a>
+</span> • 
+<span style="text-decoration:none;">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
+  <a href="https://wa.me/+2348144992473" style="text-decoration:none;color:inherit;">WhatsApp</a>
+</span>
 
 ###
 
-<h3 align="left">About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
-
-<p align="left">
-As a dedicated and experienced software engineer, I specialize in creating dynamic, responsive web applications with a focus on exceptional user experiences. My technical expertise spans HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, ExpressJS, NodeJS, MongoDB and SQL for efficient database management.<br><br>
-I am skilled in unit testing, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and version control with Git. Proficient in using npm/yarn for package management and tools like Webpack for efficient builds, I ensure high-quality, maintainable code through thorough testing and debugging practices.<br><br>
-My background includes specialization in telecommunications automation and a passion for performance optimization, accessibility, and cross-browser compatibility. With strong problem-solving skills and a commitment to continuous learning, I thrive in collaborative environments and am always eager to take on new challenges.<br><br>
-Holder of a Web Design certification from FreeCodeCamp and currently pursuing an ALX Software Engineering Certification, I am dedicated to continuous learning and growth. Let's collaborate to build something amazing together!
-</p> 
-
-###
-
-
-
-###
-
-
-<!--   <a href="https://www.youtube.com/c/YOUR_YOUTUBE_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a> -->
 </div>
 
 ###
@@ -40,41 +57,8 @@ Holder of a Web Design certification from FreeCodeCamp and currently pursuing an
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn logo" />
-  <img width="12" />
-  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
-<img width="12" />
-
-
-
-</div>
 <br>
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
@@ -94,15 +78,6 @@ Holder of a Web Design certification from FreeCodeCamp and currently pursuing an
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 <br>
-
-## Connect with Me 📬
-- 🐦 [Twitter](https://twitter.com/Adexifeoluwa)
-- 📫 [Email](mailto:deniranifeoluwa@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/ifeoluwa-adeniran-09183a1ba)
-- 🟠 [Reddit](https://www.reddit.com/user/adexifeoluwa/)
-
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
-
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
