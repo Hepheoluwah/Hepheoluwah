@@ -1,5 +1,5 @@
 
-<h1 align="center">Hellooo there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />, I'm Ifeoluwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70" /> </h1> 
+<h1 align="center">Hellooo there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="35" />, I'm Ifeoluwa </h1> 
 <h3 align="center">A Passionate Software Developer from Nigeria.</h3>
 
 <div align="center">
@@ -14,13 +14,13 @@
 - 🌱 **Learning:** AWS Cloud Practitioner
 - 💬 **Ask Me About:** Software & Web Development
 
-## Fun Facts:
+## Fun Facts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30" /> 
 - 🚀 Passionate about building scalable applications and exploring new technologies.
 - 🎯 Always looking for ways to improve performance and enhance user experience.
 - 📚 Enjoy mentoring and sharing knowledge with others in the tech community.
 
   
-## Connect with Me
+## Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70" /> 
 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Email logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
