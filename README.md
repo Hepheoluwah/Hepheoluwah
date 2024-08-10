@@ -51,7 +51,7 @@
 </span> • 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
-  <a href="https://twitter.com/Adexifeoluwa" style="text-decoration:none;color:inherit;">Twitter</a>
+  <a href="https://twitter.com/Adexifeouwa" style="text-decoration:none;color:inherit;">Twitter</a>
 </span> • 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/reddit/reddit.svg" alt="Reddit logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
