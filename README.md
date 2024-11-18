@@ -55,7 +55,7 @@
 </span> • 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/reddit/reddit.svg" alt="Reddit logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
-  <a href="https://www.reddit.com/user/adexifeoluwa/" style="text-decoration:none;color:inherit;">Reddit</a>
+  <a href="https://www.reddit.com/user/hepheoluwah/" style="text-decoration:none;color:inherit;">Reddit</a>
 </span> • 
 <span style="text-decoration:none;">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/whatsapp/whatsapp.svg" alt="WhatsApp logo" width="20" style="vertical-align:middle;margin-right:5px;"/> 
