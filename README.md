@@ -18,7 +18,7 @@
 - **ALX AWS Cloud Computing Programme** *(In Progress)*  
 - **ALX Software Engineering Certification**  
 - **FreeCodeCamp Web Design Certification**  
-- **Bachelor's Degree in [Computer Science]** 
+- **Bachelor's Degree in Computer Science** 
 
 
 ### Fun Facts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30" /> 
