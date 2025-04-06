@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/shadcn.ui-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white" />
 </div>
 
+
 ### 💻 Backend & Databases  
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
