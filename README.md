@@ -60,11 +60,9 @@
 - ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 ### 🔧 Version Control & CI/CD  
-<div style="display: inline-block; margin-right: 10px;">
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</div>
-<div style="display: inline-block;">
-  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D33833.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D33833.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 
 ---
