@@ -16,7 +16,8 @@
 
 ## 🎓 Education  
 - 🎯 **ALX AWS Cloud Computing Programme** *(In Progress)*  
-- 💻 **ALX Software Engineering Certification**  
+- 💻 **ALX Software Engineering Certification**
+- 💻 **HNG TECH i12 Finalist** 
 - 🎨 **FreeCodeCamp Web Design Certification**  
 - 🎓 **Bachelor's Degree in Computer Science**  
 
