@@ -84,7 +84,7 @@
   <a href="https://linkedin.com/in/ifeoluwa-adeniran-09183a1ba">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Adexifeouwa">
+  <a href="https://x.com/0x_ifeoluwa">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://ifeoluwa-dev.vercel.app">
