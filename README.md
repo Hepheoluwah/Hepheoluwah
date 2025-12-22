@@ -67,7 +67,7 @@ AWS • Docker • Vercel • Netlify • Firebase • Render
 Git • GitHub Actions • ESLint • Prettier • CI/CD pipelines • Figma
 
 ### 🧪 Testing (Working Knowledge)
-Jest • React Testing Library • Playwright (basic)
+Jest • React Testing Library • Playwright 
 
 ---
 
