@@ -36,7 +36,7 @@ I work end-to-end on frontend systems — from **design systems and component ar
 - **HTML5**
 - **CSS3 / Modern CSS**
 
-### 📌 Core Concepts (Senior-Level)
+### 📌 Core Concepts
 - Component-driven architecture  
 - Design systems & reusable UI libraries  
 - State management (local, global, server state)  
