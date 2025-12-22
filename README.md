@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ifeoluwa Adeniran</h1>
 <h3 align="center">
-🚀 Senior Frontend Engineer • React & Next.js • Cloud-Aware
+🚀 Frontend Engineer • React & Next.js • Cloud-Aware
 </h3>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **senior frontend engineer** building **scalable, production-ready web applications** with a strong focus on **performance, accessibility, and maintainable UI architecture**.
+I’m a **frontend engineer** building **scalable, production-ready web applications** with a strong focus on **performance, accessibility, and maintainable UI architecture**.
 
 I work end-to-end on frontend systems — from **design systems and component architecture** to **API integration, state management, and deployment** — collaborating closely with backend, product, and design teams to deliver reliable user experiences.
 
