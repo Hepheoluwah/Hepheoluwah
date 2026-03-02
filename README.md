@@ -24,7 +24,7 @@ I work end-to-end on frontend systems — from **design systems and component ar
 - 🌍 Experience across **fintech, telecoms, and edtech**  
 - ⚡ Strong advocate for **clean code, accessibility standards, and frontend best practices**
 
-🌐 **Portfolio:** https://ifeoluwa-dev.vercel.app  
+🌐 **Portfolio:** https://ifeoluwa.work
 
 ---
 
