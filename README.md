@@ -17,7 +17,7 @@ Frontend-focused Software Engineer · React & Next.js · AI-Enhanced Interfaces
 
 ## About Me
 
-Frontend-focused Software Engineer with **5+ years** building performant, accessible React and Next.js applications for SaaS and consumer products.
+I'm Ifeoluwa Adeniran a Frontend-focused Software Engineer with **5+ years** building performant, accessible React and Next.js applications for SaaS and consumer products.
 
 Skilled in TypeScript, Tailwind CSS, component-driven architecture, and frontend performance optimization — with a track record of shipping production features and mentoring engineers.
 
